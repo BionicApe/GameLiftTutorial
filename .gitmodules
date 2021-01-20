@@ -1,0 +1,3 @@
+[submodule "Plugins/GameLiftServerSDK"]
+	path = Plugins/GameLiftServerSDK
+	url = https://github.com/BionicApe/GameLiftServerSDK
